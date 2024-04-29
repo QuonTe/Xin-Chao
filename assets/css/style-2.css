@@ -66,6 +66,14 @@
             transform: translate(-50%,-50%) rotateX(90deg);
     color: rgb(0, 195, 255);
     animation: fadein ease 15s;
+    text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px rgb(217, 12, 193),
+    0 0 82px rgb(232, 37, 177),
+    0 0 92px rgb(217, 12, 125),
+    0 0 151px rgb(217, 12, 152);
   }
 
   @keyframes fadein {
